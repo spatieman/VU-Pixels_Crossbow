@@ -1,0 +1,11 @@
+{
+    "Name": "Iamadeadpixel's Crossbow Mod",
+    "Description": "Enhanced crossbow stuff",
+    "Version": "1.0.0",
+    "Authors": [ "iamadeadpixel" ],
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    },
+    "Tags": [ "pimped-crossbow" ]
+}
